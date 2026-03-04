@@ -17,3 +17,4 @@ Python, TensorFlow/Keras, Streamlit, OpenCV, Matplotlib, Google Colab
 - `Plant_Diseases.keras` – Saved model (linked via Google Drive)
 - `app.py` – Streamlit web app for prediction
 
+THANK YOU
